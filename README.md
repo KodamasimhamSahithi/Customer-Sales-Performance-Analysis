@@ -85,4 +85,16 @@ The project uses two datasets:
 # Conclusion
 --> This project demonstrates practical Power BI skills, including data preparation, data modelling, DAX calculations, and interactive        dashboard development.
 
+# Dashboard Preview
+1. Sales Overview
+   [Sales Overview](01_Sales_Overview.png)
+
+2. Customer Analysis
+   [Customer Analysis](02_Customer_Analysis.png)
+
+3. Product Analysis
+   [Product Analysis](03_Product_Analysis.png)
+
+4. Order Analysis
+   [Order Analysis](04_Order_Analysis.png)
 
